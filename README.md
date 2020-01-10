@@ -1,4 +1,4 @@
-# node-mongo-app
-nodeJs,mongoDB, nodemon, handlebars... todos app
+# Todos-App
+NodeJS, mongoDB, nodemon, handlebars, todos-app
 
 
